@@ -1,0 +1,5 @@
+1. How to do install VirtualBox: [https://wiki.manjaro.org/index.php/VirtualBox](https://wiki.manjaro.org/index.php/VirtualBox)
+2. How to do install TeamViewer: [https://wiki.manjaro.org/index.php/TeamViewer](https://wiki.manjaro.org/index.php/TeamViewer)
+3. How to do install vscode: []()
+4. How to do install IntelliJ IDEA: []()
+5. How to do install PyCharm: []()
