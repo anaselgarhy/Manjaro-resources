@@ -6,3 +6,4 @@
 - [(Arabic) <bdi>أمر مهم لإدارة نظام لينكس  - الجزء الأول</bdi> 40](https://youtu.be/ocm21tzGquE)
 - [(Arabic) <bdi>أمر مهم لإدارة نظام لينكس  - الجزء الثاني</bdi> 40](https://youtu.be/irLeOY7x7UE)
 - [Top 10 Best Linux Terminal Apps of 2021](https://youtu.be/ajigN4nJ8eI)
+- [Using Pacman on Arch Linux: Everything you need to know](https://youtu.be/-dEuXTMzRKs)
